@@ -1,4 +1,21 @@
-#FuelUp!
+![License](https://img.shields.io/badge/License-MIT-blue.svg?style=plastic)
+
+# FuelUp!
+
+## Table of Contents:
+* VERSION
+* DESCRIPTION
+* DEPLOYED SITE
+* CONTRIBUTING
+* TESTS
+* CONTACT
+
+## Version:
+0.0.1
+
+
+
+## Description of FuelUp!
 
 Welcome to our web application, Fuel Up! 
 
@@ -9,11 +26,28 @@ Welcome to our web application, Fuel Up!
 - User just got spouse an electric vehicle and is still truckin’ down the highway with gasoline under the hood. The couple wants a quick way for drivers in either vehicle to find the closest charging station, especially in a bind when their fuel is low. - 
 
 
+
  ## Deployed site: 
  https://team6diamondplatipi.github.io/TechnicallyAMammal/ 
  
- 
-##
+
+
+## Contributing: 
+rodgersea, SeanWalmer, AFeese, mathcodes
+
+
+
+
+
+## Tests: 
+```Testing not currently implemented```
+
+
+
+
+### Questions? Contact:
+AFeese, ashleyfeese@outlook.com
+
 
 
  
